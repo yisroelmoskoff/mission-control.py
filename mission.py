@@ -20,3 +20,4 @@ total_fuel = 200
 fuel_balance = 200-126.667
 print(total_fuel,fuel_balance)
 
+time_of_mission = (input(how long did  the mission take using hours,minuts,second))
