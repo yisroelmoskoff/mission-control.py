@@ -8,7 +8,12 @@
 # print(type(is_mission_active))
 # print(type(distance_to_target))
 
- base_target_distance = 950*2
-full_base_target_distance=1900 
-print(full_base_target_distance,base_target_distance)
+#  base_target_distance = 950*2
+# full_base_target_distance=1900 
+# print(full_base_target_distance,base_target_distance)
+
+fuel_usage = 1/15
+trip_fuel_amount = 1900/15
+print(fuel_usage,trip_fuel_amount)
+
 
